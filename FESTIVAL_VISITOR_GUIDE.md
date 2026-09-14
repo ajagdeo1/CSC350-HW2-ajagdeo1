@@ -2,33 +2,35 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Adrian Jagdeo
+- Course and section: CSC350
+- Date: 9/14/26
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL: https://github.com/ajagdeo1/CSC350-HW2-ajagdeo1.git
+- Starting `git status`: 
+```
+On branch main
+nothing to commit, working tree clean
+```
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: GRID//NYC
+- Location: Knockdown Center, Queens NY
+- Intended audience: Tron and Electronic music lovers 
+- Theme: Futuristic cyberpunk electronic dance club.
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
-
-   [Your answer]
+   on the local repository.
 
 2. Has it been staged or committed?
-
-   [Your answer]
+   Neither.
 
 ## Arrival Information
 
@@ -60,12 +62,11 @@
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
-
-   [Your answer]
+   Saving a file updates a file with any edits made. A commit saves a snapshot of any edited files added to the staging area allowing access to a record of commits and changes made along with the commit.
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   git diff shows changes that have not been staged yet --staged shows changes added to the staging area.
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
@@ -73,7 +74,7 @@
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   it links the local main branch with the main branch on the remote repo called origin
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 

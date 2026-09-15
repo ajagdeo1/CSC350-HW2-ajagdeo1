@@ -70,7 +70,7 @@ Verified on GitHub by Adrian Jagdeo.
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+    The changes were made through github web editor modifying the remote repo directly, the changes made there wouldn't affect the local repo on my local machine.
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
@@ -78,5 +78,11 @@ Verified on GitHub by Adrian Jagdeo.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+  git status: 
+   On branch main
+   Your branch is up to date with 'origin/main'.
+
+   nothing to commit, working tree clean
+
+
 

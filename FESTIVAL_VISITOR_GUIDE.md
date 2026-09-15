@@ -48,7 +48,7 @@ Stay hydrated, lookout for your fellow attendees, have fun.
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified on GitHub by Adrian Jagdeo.
 
 ## Commit Evidence
 

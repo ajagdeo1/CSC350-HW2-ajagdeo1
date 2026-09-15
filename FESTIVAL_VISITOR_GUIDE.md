@@ -54,9 +54,9 @@ Verified on GitHub by Adrian Jagdeo.
 
 | Checkpoint | Short commit ID | Required message |
 |e93401f|1084a52|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
+| Personalized guide | [e93401f] | `docs: personalize festival visitor guide` |
+| Visitor access information | [1084a52] | `docs: add visitor access information` |
+| GitHub verification | [73439e0] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection

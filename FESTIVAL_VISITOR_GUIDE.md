@@ -53,7 +53,7 @@ Stay hydrated, lookout for your fellow attendees, have fun.
 ## Commit Evidence
 
 | Checkpoint | Short commit ID | Required message |
-|e93401f|---|---|
+|e93401f|1084a52|---|
 | Personalized guide | [ID] | `docs: personalize festival visitor guide` |
 | Visitor access information | [ID] | `docs: add visitor access information` |
 | GitHub verification | [ID] | `docs: verify independent homework on GitHub` |

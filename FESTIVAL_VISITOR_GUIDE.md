@@ -34,17 +34,17 @@ nothing to commit, working tree clean
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: L train to Jefferson St Station, 20 minute walk or connecting Buses.
+- Entrance or meeting location: Main entrance.
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. Ramp access. ADA compliant 
+2. ADA Toilet.
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Stay hydrated, lookout for your fellow attendees, have fun.
 
 ## GitHub Verification
 
@@ -53,7 +53,7 @@ nothing to commit, working tree clean
 ## Commit Evidence
 
 | Checkpoint | Short commit ID | Required message |
-|---|---|---|
+|e93401f|---|---|
 | Personalized guide | [ID] | `docs: personalize festival visitor guide` |
 | Visitor access information | [ID] | `docs: add visitor access information` |
 | GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
